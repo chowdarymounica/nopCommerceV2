@@ -1,0 +1,93 @@
+17:13:56.528 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - URL is opened
+17:13:56.826 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - Username is provided
+17:13:56.953 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - Password is provided
+17:14:06.631 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - Before clicking dropdown
+17:14:06.785 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - After clicking dropdown
+17:14:10.270 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - In customer registration page
+17:14:16.080 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - wUuSunLw
+17:14:20.374 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - ×
+The new customer has been added successfully.
+17:14:20.374 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - Test Case passed
+11:36:45.662 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - URL is opened
+11:36:46.070 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - Username is provided
+11:36:46.229 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - Password is provided
+11:36:54.170 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - Before clicking dropdown
+11:36:54.262 [main] INFO  com.nocommerce.testCases.TC_RegisterCust_001 - After clicking dropdown
+11:38:07.894 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+11:38:08.246 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+11:38:08.402 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+11:38:17.011 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+11:38:35.606 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+11:38:35.754 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+11:38:35.822 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+11:38:45.565 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+11:41:25.363 [TestNG-tests-1] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+11:41:25.749 [TestNG-tests-1] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+11:41:25.962 [TestNG-tests-1] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+11:41:28.518 [TestNG-tests-2] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+11:41:28.614 [TestNG-tests-2] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+11:41:28.676 [TestNG-tests-2] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+11:41:36.187 [TestNG-tests-1] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+11:41:36.973 [TestNG-tests-2] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+11:53:37.833 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+11:53:38.204 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+11:53:38.319 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+11:53:48.175 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+12:39:56.390 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+12:39:56.751 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+12:39:56.873 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+12:40:06.399 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+12:43:23.845 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+12:43:24.221 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+12:43:24.332 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+12:47:52.083 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+12:47:52.423 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+12:47:52.573 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+12:49:59.503 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+12:49:59.822 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+12:49:59.918 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+20:02:28.614 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+20:02:40.496 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+20:02:47.046 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+20:02:47.065 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+20:02:55.256 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+20:04:54.730 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+20:05:04.554 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+20:05:11.139 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+20:05:11.156 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+20:05:16.945 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+20:05:16.946 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+20:05:16.950 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+20:05:23.153 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+20:05:23.153 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+20:05:23.162 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+20:05:29.194 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+20:05:29.195 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+11:35:15.311 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+11:35:27.013 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+11:35:33.909 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+11:35:33.934 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+11:35:39.932 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+11:35:39.932 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+11:35:39.936 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+11:35:46.371 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+11:35:46.372 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+11:35:46.373 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Starting TC_LoginDTT ********
+11:35:52.142 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - Test Passed
+11:35:52.142 [main] INFO  com.nocommerce.testCases.TC_LoginDataDrivenTestDTT_002 - ******** Ending TC_LoginDTT ********
+11:40:12.423 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+11:40:12.578 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+11:40:12.642 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+11:40:20.120 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+11:54:00.151 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+11:54:00.304 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+11:54:00.369 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+11:54:09.365 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+19:35:12.017 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+19:35:12.164 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+19:35:12.216 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+19:35:19.622 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
+19:41:40.723 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - URL is opened
+19:41:40.984 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Username is provided
+19:41:41.097 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Password is provided
+19:41:49.274 [main] INFO  com.nocommerce.testCases.TC_LoginTest_001 - Test Passed
